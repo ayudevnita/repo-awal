@@ -1,2 +1,4 @@
-print ("halo dunia")
-print ("Belajar AI")
+print ("halo Orbit")
+print ("Belajar ML")
+print ("Yes")
+
